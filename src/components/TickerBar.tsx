@@ -1,4 +1,4 @@
-const SEGMENT = '❤️ for all teachers\u00a0\u00a0—\u00a0\u00a0';
+const SEGMENT = 'Designed by Coach Emad with all ❤️ for all Teachers\u00a0\u00a0—\u00a0\u00a0لكل المعلمين ❤️ صمم بواسطة كوتش عماد بكل ❤️\u00a0\u00a0—\u00a0\u00a0';
 const REPEATS = 10;
 
 export function TickerBar() {
