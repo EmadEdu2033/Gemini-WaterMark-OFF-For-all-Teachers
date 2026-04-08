@@ -3,6 +3,7 @@ import { WatermarkEditor } from './pages/WatermarkEditor';
 import { Navbar } from './components/Navbar';
 import { TickerBar } from './components/TickerBar';
 import { ToastContainer } from './components/Toast';
+import { WelcomeVideoModal } from './components/WelcomeVideoModal';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <WatermarkEditor />
       <TickerBar />
       <ToastContainer />
+      <WelcomeVideoModal />
     </LanguageProvider>
   );
 }
