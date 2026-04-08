@@ -2,6 +2,15 @@
 Watermark Off is A free, open-source tool that removes Google Gemini AI sparkle watermarks from images instantly. Built for teachers. 100% client-side — your images never leave your device. Uses reverse alpha blending with a precisely extracted watermark map for pixel-perfect restoration. Supports Arabic/English with RTL. React + Vite + TypeScript.
 ## Getting Started
 
+
+
+https://github.com/user-attachments/assets/2460cc81-f206-4a1c-88b9-5770f013a47e
+
+
+
+
+
+
 ### Prerequisites
 
 - Node.js 18 or later
