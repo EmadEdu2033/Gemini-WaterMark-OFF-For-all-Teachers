@@ -48,7 +48,7 @@ Deploy to any static hosting (Netlify, Vercel, GitHub Pages, etc.).
 
 ### التثبيت
 
-git clone https://github.com/YOUR_USERNAME/watermark-off.git
+git clone https://github.com/Emadedu2033/watermark-off.git
 cd watermark-off
 
 # تثبيت الاعتمادات
