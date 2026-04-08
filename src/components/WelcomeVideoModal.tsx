@@ -90,6 +90,9 @@ export function WelcomeVideoModal() {
         {/* Video */}
         <video
           controls
+          autoPlay
+          muted
+          playsInline
           style={{ display: 'block', width: '100%' }}
           src="/Watermark-Eraser-Apr-8-15-35-06.mp4"
         />
